@@ -1,4 +1,4 @@
-- This is a github repository used to indicate the specifications of question 5 in summative DOE522
+- This is a github repository used to indicate the specifications of question 5.1 in summative DOE522
 
 - In this repo there is the uploaded file of th eShopOnWeb repository 
 
